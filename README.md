@@ -1,7 +1,7 @@
 # Maze-Game
-This is a class project at UC Berkeley CS61 series.
+This is a project for a group of 2 at UC Berkeley CS61B class.
 
-In this project, we create a simple maze game where the player is able to move around the maze to find a key and unlock the exit door. This maze is decorated with a few interesting things like flower, water, and instance door that can instantly move to a random place.
+We started this project from scratch. We created a simple maze game where the player is able to move around the maze to find a key and unlock the exit door. This maze was decorated with a few interesting things like flower, water, and instance door that can instantly move to a random place.
 
 ![](demo.gif)
 
